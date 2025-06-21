@@ -16,7 +16,7 @@ buildFuture = true
 [menu]
 
   [[menu.main]]
-    name = "Tranh Chủ"
+    name = "Trang Chủ"
     url = "/"
     weight = 1
 
