@@ -26,7 +26,7 @@ buildFuture = true
     weight = 2
 
   [[menu.main]]
-    name = "Về Chúng Tôi"
+    name = "Về Kalima Wiki"
     url = "/about/"
     weight = 3
 
