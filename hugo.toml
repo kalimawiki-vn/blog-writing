@@ -32,7 +32,7 @@ buildFuture = true
 
   [[menu.main]]
     name = "Liên Hệ"
-	  url = "/lienhe/"
+	  url = "/contact/"
 	  weight = 4
 
 [pagination]
