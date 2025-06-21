@@ -1,4 +1,4 @@
-baseURL = "https://kalimawiki-vn.vercel.app/"
+baseURL = "https://kalimawiki-vn-preview.vercel.app/"
 title = "Kalima Wiki"
 theme = "PaperMod"
 languageCode = "en-us"
