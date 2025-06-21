@@ -1,0 +1,44 @@
+baseURL = "http://kalimawiki-vn.vercel.app"
+title = "Kalima Wiki"
+theme = "PaperMod"
+languageCode = "vn"
+buildFuture = true
+
+[params]
+  author = "Kalima Wiki"
+  defaultTheme = "auto"
+  showReadingTime = true
+  showToc = true
+  showBreadCrumbs = false
+  ShowShareButtons = true
+  defaultCover = "https://res.cloudinary.com/dxyptrt7m/image/upload/v1749811928/tdnrapyunqagptn0hbca.jpg"
+
+[menu]
+
+  [[menu.main]]
+    name = "Tranh Chủ"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Về Chúng Tôi"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Liên Hệ"
+	  url = "/lienhe/"
+	  weight = 4
+
+[pagination]
+  pagerSize = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
