@@ -33,7 +33,7 @@ showReadingTime: false
 
 <form action="https://formspree.io/f/mgvyyzqo" method="POST" style="max-width: 500px; margin-top: 1rem;">
   <label for="name">Tên:</label><br>
-  <input type="text" name="Tên" required class="form-field"><br>
+  <input type="text" name="name" required class="form-field"><br>
 
   <label for="email">Email:</label><br>
   <input type="email" name="_replyto" required class="form-field"><br>
@@ -41,6 +41,5 @@ showReadingTime: false
   <label for="message">Nội dung:</label><br>
   <textarea name="message" rows="5" required class="form-field"></textarea><br>
 
-  <button type="Gửi thông tin" class="form-button">Send</button>
+  <button type="submit" class="form-button">Gửi</button>
 </form>
-
