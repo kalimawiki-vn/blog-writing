@@ -63,4 +63,5 @@ Trí tuệ nhân tạo (AI) đang mở ra những cơ hội lớn cho ngành y d
 
 ## Lời Kết & Tương Lai Của AI Trong Nghiên Cứu Lâm Sàng
 AI đang mở ra một kỷ nguyên mới cho ngành nghiên cứu lâm sàng – nơi mà dữ liệu được phân tích sâu hơn, quyết định được đưa ra nhanh hơn, và phương pháp điều trị trở nên cá nhân hóa hơn bao giờ hết. Tuy nhiên, để tận dụng trọn vẹn tiềm năng này, ngành y tế cần tiếp cận AI với cái nhìn thực tế và có trách nhiệm. Việc giải quyết các thách thức về đạo đức, bảo mật, chất lượng dữ liệu và chuyển giao công nghệ không chỉ là điều kiện cần, mà còn là nền tảng để AI thực sự phục vụ sức khỏe con người một cách bền vững.
+
 Trong tương lai gần, AI sẽ không chỉ là một công cụ hỗ trợ mà có thể trở thành đối tác đồng hành cùng các nhà nghiên cứu và bác sĩ – giúp chúng ta tiến nhanh hơn đến những đột phá y học mang tính toàn cầu.
