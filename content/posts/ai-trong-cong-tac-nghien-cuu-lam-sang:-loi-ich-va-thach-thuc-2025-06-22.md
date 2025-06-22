@@ -27,8 +27,6 @@ Nghiên cứu lâm sàng là một phần quan trọng trong ngành y tế, giú
 5. **Giảm Chi Phí Hoạt Động**
    - Nhờ cải thiện hiệu quả làm việc, AI có thể giảm chi phí nghiên cứu một cách đáng kể.
 
-![AI trong Nghiên Cứu Lâm Sàng](https://res.cloudinary.com/dxyptrt7m/image/upload/v1750598906/zvahqiii2x7tjjqpeibq.jpg)
-
 ## Phần 2: Thách Thức Khi Ứng Dụng AI Trong Nghiên Cứu Lâm Sàng
 1. **Độ Tin Cậy Và Chất Lượng Dữ Liệu**
    - Kỹ thuật AI phụ thuộc vào dữ liệu chất lượng cao và có thể bị ảnh hưởng bởi dữ liệu không chính xác.
