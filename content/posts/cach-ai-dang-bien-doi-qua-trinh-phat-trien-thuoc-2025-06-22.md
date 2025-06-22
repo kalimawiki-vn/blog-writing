@@ -1,6 +1,6 @@
 ---
 title: "Cách AI Đang Biến Đổi Quá Trình Phát Triển Thuốc"
-date: 2023-10-25T14:30:00+07:00
+date: 2025-06-22T04:30:00+07:00
 draft: false
 tags: ["AI", "Phát triển thuốc", "Công nghệ"]
 cover:
