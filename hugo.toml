@@ -21,7 +21,7 @@ buildFuture = true
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
+    name = "Bài Viết"
     url = "/posts/"
     weight = 2
 
