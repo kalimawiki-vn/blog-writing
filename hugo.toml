@@ -32,8 +32,8 @@ buildFuture = true
 
   [[menu.main]]
     name = "Liên Hệ"
-	  url = "/contact/"
-	  weight = 4
+    url = "/contact/"
+    weight = 4
 
 [pagination]
   pagerSize = 5
