@@ -28,11 +28,11 @@ Trong thời đại mà dữ liệu bùng nổ, AI đã trở thành trợ thủ
 
 ### 1. DeepMind – AlphaFold
 
-  - **Chức năng:** Dự đoán cấu trúc 3D của protein với độ chính xác chưa từng có. (Nguồn: ![The Wall Street Journal](https://www.wsj.com/science/nobel-prize-in-chemistry-awarded-to-trio-for-cracking-code-to-predict-protein-structure-62295a7d?utm_source=chatgpt.com))
+  - **Chức năng:** Dự đoán cấu trúc 3D của protein với độ chính xác chưa từng có. (Nguồn: [The Wall Street Journal](https://www.wsj.com/science/nobel-prize-in-chemistry-awarded-to-trio-for-cracking-code-to-predict-protein-structure-62295a7d?utm_source=chatgpt.com))
 
   - **Ý nghĩa:** Hiểu chính xác cấu trúc protein là bước then chốt để thiết kế thuốc có thể tương tác hiệu quả. AlphaFold 3 không chỉ dự đoán cấu trúc protein mà còn mô phỏng cả tương tác giữa protein và các phân tử nhỏ như thuốc (Nguồn: ![Nature](https://www.nature.com/articles/s41586-024-07487-w))
   
-  - **Thành quả:** AlphaFold 3 cải thiện độ chính xác tăng khoảng 50% so với các phương pháp truyền thống (Nguồn: ![PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11292590/?utm_source=chatgpt.com), ![Inside Precision Medicine](https://www.insideprecisionmedicine.com/topics/informatics/deepminds-next-gen-protein-structure-predictor-alphafold-3-released/?utm_source=chatgpt.com)). Điều này giúp rút ngắn thời gian thiết kế thuốc bằng cách xác định mục tiêu phân tử nhanh chóng.
+  - **Thành quả:** AlphaFold 3 cải thiện độ chính xác tăng khoảng 50% so với các phương pháp truyền thống (Nguồn: [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11292590/?utm_source=chatgpt.com), [Inside Precision Medicine](https://www.insideprecisionmedicine.com/topics/informatics/deepminds-next-gen-protein-structure-predictor-alphafold-3-released/?utm_source=chatgpt.com)). Điều này giúp rút ngắn thời gian thiết kế thuốc bằng cách xác định mục tiêu phân tử nhanh chóng.
 
 ### 2. IBM Watson for Drug Discovery
 
