@@ -67,17 +67,17 @@ Trong thời đại mà dữ liệu bùng nổ, AI đã trở thành trợ thủ
 
 ### 6. Recursion Pharmaceuticals
 
-  - **Chức năng:** Phân tích ảnh tế bào sử dụng AI để xác định ảnh hưởng của hàng nghìn hợp chất lên tế bào (Nguồn: [Meidum](https://machine-learning-made-simple.medium.com/how-recursion-pharmaceuticals-is-using-ai-to-revolutionize-drug-discovery-b115c88f783c)).
+  - **Chức năng:** Phân tích ảnh tế bào sử dụng AI để xác định ảnh hưởng của hàng nghìn hợp chất lên tế bào (Nguồn: [Medium](https://machine-learning-made-simple.medium.com/how-recursion-pharmaceuticals-is-using-ai-to-revolutionize-drug-discovery-b115c88f783c)).
   
   - **Ý nghĩa:** Nhờ áp dụng AI và tự động hóa, Recursion tăng tốc quy trình sàng lọc các phản ứng sinh học và giảm khả năng bỏ sót các tín hiệu quan trọng. Quá trình này giúp xác định cơ chế tác động của thuốc và sàng lọc hợp chất an toàn hơn – từ đó rút ngắn thời gian và tăng độ chính xác so với phương pháp thủ công.
 
 ### 7. Schrödinger
 
   - **Chức năng:** Mô phỏng phân tử chính xác với AI và hóa tính toán.
-  
-        - QikProp, một công cụ thuộc bộ phần mềm Schrödinger, cung cấp khả năng dự đoán sớm các đặc tính dược động-hóa học (ADME) dựa trên cấu trúc 3D của phân tử – như độ tan, sinh khả dụng, thấm qua màng tế bào, và tương tác với protein (Nguồn: [Schrodinger QikProp](https://www.schrodinger.com/platform/products/qikprop/?utm_source=chatgpt.com)).
       
-        - Schrödinger kết hợp các thuật toán, như trong module LiveDesign ML hoặc phần mềm Schrodinger Maestro, giúp tối ưu hóa thiết kế thuốc bằng cách mô phỏng chính xác tương tác protein–ligand và dự đoán nhiều thông số quan trọng trong quy trình lead optimization (Nguồn: [Schrodinger LiveDesign ML](https://www.schrodinger.com/platform/products/livedesign-ml/?utm_source=chatgpt.com), [Schrodinger Maestro](https://www.schrodinger.com/platform/products/maestro/)).
+      - QikProp, một công cụ thuộc bộ phần mềm Schrödinger, cung cấp khả năng dự đoán sớm các đặc tính dược động-hóa học (ADME) dựa trên cấu trúc 3D của phân tử – như độ tan, sinh khả dụng, thấm qua màng tế bào, và tương tác với protein (Nguồn: [Schrodinger QikProp](https://www.schrodinger.com/platform/products/qikprop/?utm_source=chatgpt.com)).
+      
+      - Schrödinger kết hợp các thuật toán, như trong module LiveDesign ML hoặc phần mềm Schrodinger Maestro, giúp tối ưu hóa thiết kế thuốc bằng cách mô phỏng chính xác tương tác protein–ligand và dự đoán nhiều thông số quan trọng trong quy trình lead optimization (Nguồn: [Schrodinger LiveDesign ML](https://www.schrodinger.com/platform/products/livedesign-ml/?utm_source=chatgpt.com), [Schrodinger Maestro](https://www.schrodinger.com/platform/products/maestro/)).
    
   - **Ứng dụng:** Phân tích ADME (hấp thu, phân bố, chuyển hóa, thải trừ) và giúp tối ưu hóa hợp chất thuốc trước khi bước vào thử nghiệm tiền lâm sàng (Nguồn: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352914822000466?utm_source=chatgpt.com)).
 
@@ -94,12 +94,6 @@ Bên cạnh đó, AI còn góp phần tăng tỷ lệ thành công trong các gi
 Không chỉ dừng lại ở khâu nghiên cứu, các công cụ AI còn được ứng dụng trong tối ưu hóa sản xuất, cá nhân hóa liệu pháp điều trị, và thậm chí hỗ trợ các chiến lược tái định vị thuốc (drug repurposing) – tức là tìm ra tác dụng mới cho những hợp chất đã có sẵn.
 
 Tóm lại, AI đang mang đến một làn gió mới cho ngành dược, không chỉ tăng tốc và tiết kiệm chi phí phát triển thuốc, mà còn mở ra hy vọng cho việc điều trị hiệu quả hơn, an toàn hơn và tiếp cận được nhiều người bệnh hơn trên toàn cầu.
-
-## Kết luận
-
-Sự kết hợp giữa AI và khoa học dược phẩm không còn là viễn cảnh xa vời, mà đang diễn ra từng ngày trong các phòng thí nghiệm và trung tâm nghiên cứu lớn trên thế giới. Những công cụ như AlphaFold, Watson, Chemistry42, PandaOmics, QikProp, hay Schrodinger Maestro không chỉ là trợ lý thông minh, mà đang trở thành yếu tố chủ chốt trong việc tăng tốc phát triển thuốc và giảm thiểu rủi ro.
-
-Tất nhiên, vẫn còn những thách thức liên quan đến độ tin cậy của mô hình, chất lượng dữ liệu và khung pháp lý, nhưng tiềm năng mà AI mang lại là vô cùng lớn. Với đà phát triển hiện tại, AI không chỉ giúp các nhà khoa học “thấy được điều chưa từng thấy”, mà còn có thể mang lại những phương pháp điều trị chính xác, cá nhân hóa và nhân đạo hơn cho người bệnh trên toàn thế giới.
 
 ---
 
