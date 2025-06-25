@@ -8,8 +8,6 @@ cover:
   alt: "Hình ảnh minh họa về trí tuệ nhân tạo trong phát triển thuốc"
 ---
 
-![Trí tuệ nhân tạo trong phát triển thuốc](https://res.cloudinary.com/dxyptrt7m/image/upload/v1750852078/w3wcme5friuu9acvwlld.jpg)
-
 ## Giới thiệu
 
 Ngành dược phẩm đóng vai trò quan trọng trong việc bảo vệ và cải thiện sức khỏe con người. Tuy nhiên, quá trình phát triển thuốc mới truyền thống mất rất nhiều thời gian, chi phí và công sức. Trong những năm gần đây, trí tuệ nhân tạo (AI) đã trở thành công cụ đắc lực giúp thay đổi cách thiết kế và phát triển thuốc, rút ngắn thời gian nghiên cứu và nâng cao hiệu quả.
@@ -22,7 +20,7 @@ AI, đặc biệt là các mô hình học máy (Machine Learning), là tập h�
 
 Việc ứng dụng AI không chỉ giúp rút ngắn quy trình phát triển thuốc mà còn làm giảm chi phí và tăng tỷ lệ thành công trong các giai đoạn nghiên cứu và thử nghiệm.
 
-![Giao diện công cụ AI phát triển thuốc]([https://res.cloudinary.com/dxyptrt7m/image/upload/v1750852221/oof2xwvys3nsdfn8bbkr.jpg])
+![Trí tuệ nhân tạo trong phát triển thuốc](https://res.cloudinary.com/dxyptrt7m/image/upload/v1750852221/oof2xwvys3nsdfn8bbkr.jpg)
 
 ## Các công cụ AI phổ biến trong phát hiện và thiết kế thuốc
 
@@ -64,7 +62,7 @@ Schrödinger cung cấp phần mềm mô phỏng dựa trên AI cho phép thiế
 
 Exscientia là nền tảng AI giúp tự động hóa và tối ưu hóa quá trình thiết kế thuốc, nhiều sản phẩm ứng viên đã được phát triển nhanh chóng nhờ các giải pháp của họ.
 
-![Giao diện công cụ AI phát triển thuốc]([https://res.cloudinary.com/dxyptrt7m/image/upload/v1750852260/w2e3npyzakgapptf4dnp.jpg])
+![Giao diện công cụ AI phát triển thuốc](https://res.cloudinary.com/dxyptrt7m/image/upload/v1750852260/w2e3npyzakgapptf4dnp.jpg)
 
 ## Tác động của các công cụ AI trong ngành dược phẩm hiện nay
 
