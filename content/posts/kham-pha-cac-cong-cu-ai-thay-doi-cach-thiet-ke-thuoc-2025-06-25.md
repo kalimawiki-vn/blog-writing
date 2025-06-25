@@ -30,13 +30,20 @@ Trong thời đại mà dữ liệu bùng nổ, AI đã trở thành trợ thủ
 
   - **Chức năng:** Dự đoán cấu trúc 3D của protein với độ chính xác chưa từng có. (Nguồn: [The Wall Street Journal](https://www.wsj.com/science/nobel-prize-in-chemistry-awarded-to-trio-for-cracking-code-to-predict-protein-structure-62295a7d?utm_source=chatgpt.com))
 
-  - **Ý nghĩa:** Hiểu chính xác cấu trúc protein là bước then chốt để thiết kế thuốc có thể tương tác hiệu quả. AlphaFold 3 không chỉ dự đoán cấu trúc protein mà còn mô phỏng cả tương tác giữa protein và các phân tử nhỏ như thuốc (Nguồn: ![Nature](https://www.nature.com/articles/s41586-024-07487-w))
+  - **Ý nghĩa:** Hiểu chính xác cấu trúc protein là bước then chốt để thiết kế thuốc có thể tương tác hiệu quả. AlphaFold 3 không chỉ dự đoán cấu trúc protein mà còn mô phỏng cả tương tác giữa protein và các phân tử nhỏ như thuốc (Nguồn: [Nature](https://www.nature.com/articles/s41586-024-07487-w))
   
   - **Thành quả:** AlphaFold 3 cải thiện độ chính xác tăng khoảng 50% so với các phương pháp truyền thống (Nguồn: [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11292590/?utm_source=chatgpt.com), [Inside Precision Medicine](https://www.insideprecisionmedicine.com/topics/informatics/deepminds-next-gen-protein-structure-predictor-alphafold-3-released/?utm_source=chatgpt.com)). Điều này giúp rút ngắn thời gian thiết kế thuốc bằng cách xác định mục tiêu phân tử nhanh chóng.
 
 ### 2. IBM Watson for Drug Discovery
 
-IBM Watson sử dụng AI để phân tích hàng tỷ dữ liệu y tế và nghiên cứu khoa học, giúp tìm ra các hợp chất tiềm năng và phân tích tương tác thuốc một cách nhanh chóng, hiệu quả.
+  - **Chức năng:** Sử dụng trí tuệ nhân tạo và NLP để quét và phân tích hàng triệu văn bản khoa học, báo cáo lâm sàng, hồ sơ bằng sáng chế (Nguồn: [Pfizer](https://www.pfizer.com/news/press-release/press-release-detail/ibm_and_pfizer_to_accelerate_immuno_oncology_research_with_watson_for_drug_discovery?utm_source=chatgpt.com))
+
+  - **Ý nghĩa:** Tự động tìm kiếm và nhận diện mối liên quan giữa hợp chất và bệnh lý mà con người có thể bỏ sót.
+  - **Ứng dụng thực tiến:**
+
+      - Pfizer đã hợp tác với IBM Watson for Drug Discovery để hỗ trợ nghiên cứu liệu pháp ung thư, giúp phân tích dữ liệu lớn và phát hiện nhanh các mục tiêu điều trị, đồng thời hỗ trợ cả trong đánh giá an toàn .
+        
+      - Trong một cuộc thử nghiệm khác liên quan đến sốt rét, Watson thực hiện quét tài liệu và sàng lọc chỉ trong 4 tuần, trong khi các phương pháp truyền thống mất khoảng 1 năm để liệt kê được 12 hợp chất ứng viên; Watson đã tìm ra 11, trong đó có đến 6 ứng viên trùng với danh sách truyền thống và 5 ứng viên hoàn toàn mới .
 
 ### 3. Atomwise
 
