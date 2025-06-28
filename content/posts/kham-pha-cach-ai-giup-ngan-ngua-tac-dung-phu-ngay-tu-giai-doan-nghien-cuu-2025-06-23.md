@@ -106,4 +106,4 @@ AI đang thay đổi cách chúng ta tiếp cận sức khỏe – và với ng�
 
 ---
 
-Để tìm hiểu thêm hoặc hợp tác trong lĩnh vực ứng dụng AI trong nghiên cứu dược phẩm, vui lòng liên hệ với chúng tôi qua [đây](https://kalimawiki-vn.vercel.app/contact/).
+Để tìm hiểu thêm hoặc hợp tác trong lĩnh vực ứng dụng AI trong nghiên cứu dược phẩm, vui lòng liên hệ với chúng tôi [tại đây](https://kalimawiki-vn.vercel.app/contact/).
