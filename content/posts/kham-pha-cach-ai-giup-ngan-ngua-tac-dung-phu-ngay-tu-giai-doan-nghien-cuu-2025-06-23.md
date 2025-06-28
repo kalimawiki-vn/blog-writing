@@ -74,23 +74,23 @@ Không chỉ dừng lại ở lý thuyết, nhiều công ty dược phẩm, tru
 
 ### 1. Dự đoán độc tính gan bằng DeepTox
 
-DeepTox là một hệ thống AI được phát triển bởi các nhà nghiên cứu tại Đại học Maastricht (Hà Lan), chuyên dùng mạng nơ-ron sâu để dự đoán độc tính của hợp chất hóa học, đặc biệt là độc tính với gan – một trong những nguyên nhân phổ biến nhất khiến thuốc bị rút khỏi thị trường. Mô hình được huấn luyện trên hàng ngàn hợp chất có dữ liệu độc tính sẵn có, cho phép phát hiện nguy cơ từ rất sớm trong quá trình sàng lọc thuốc mới.
+DeepTox là một hệ thống AI được phát triển bởi các nhà nghiên cứu tại Đại học Maastricht (Hà Lan), chuyên dùng mạng nơ-ron sâu để dự đoán độc tính của hợp chất hóa học, đặc biệt là độc tính với gan – một trong những nguyên nhân phổ biến nhất khiến thuốc bị rút khỏi thị trường. Mô hình được huấn luyện trên hàng ngàn hợp chất có dữ liệu độc tính sẵn có, cho phép phát hiện nguy cơ từ rất sớm trong quá trình sàng lọc thuốc mới (Nguồn: [Frontiers in Environmental Science](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2015.00080/full)).
 
 ### 2. Novartis ứng dụng AI để đánh giá an toàn thuốc sớm hơn
 
-Tập đoàn dược phẩm đa quốc gia Novartis đã sử dụng các mô hình AI để phân tích dữ liệu từ các nghiên cứu tiền lâm sàng và lâm sàng, giúp dự đoán phản ứng phụ hiếm gặp trước khi thuốc đến tay người bệnh. AI giúp phát hiện mối liên hệ giữa đặc điểm phân tử của thuốc và các phản ứng ngoài ý muốn, từ đó cải tiến cấu trúc thuốc ngay từ đầu.
+Tập đoàn dược phẩm đa quốc gia Novartis đã sử dụng các mô hình AI để phân tích dữ liệu từ các nghiên cứu tiền lâm sàng và lâm sàng, giúp dự đoán phản ứng phụ hiếm gặp trước khi thuốc đến tay người bệnh. AI giúp phát hiện mối liên hệ giữa đặc điểm phân tử của thuốc và các phản ứng ngoài ý muốn, từ đó cải tiến cấu trúc thuốc ngay từ đầu (Nguồn: [Patterns](https://www.cell.com/patterns/fulltext/S2666-3899(21)00155-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389921001550%3Fshowall%3Dtrue)).
 
 ### 3. Atomwise: Dự đoán độc tính qua mô phỏng phân tử
 
-Startup Atomwise (Mỹ) chuyên dùng AI trong thiết kế thuốc đã phát triển các mô hình học sâu để mô phỏng tương tác phân tử giữa thuốc và protein trong cơ thể người. Những mô hình này có khả năng dự đoán không chỉ hiệu quả điều trị, mà còn cả khả năng gây tác dụng phụ hoặc tương tác không mong muốn, giúp loại bỏ các ứng viên thuốc kém an toàn trước khi bước vào thử nghiệm trên người.
+Startup Atomwise (Mỹ) chuyên dùng AI trong thiết kế thuốc đã phát triển các mô hình học sâu để mô phỏng tương tác phân tử giữa thuốc và protein trong cơ thể người. Những mô hình này có khả năng dự đoán không chỉ hiệu quả điều trị, mà còn cả khả năng gây tác dụng phụ hoặc tương tác không mong muốn, giúp loại bỏ các ứng viên thuốc kém an toàn trước khi bước vào thử nghiệm trên người (Nguồn: [Atomwise](https://blog.atomwise.com/behind-the-ai-a-novel-approach-for-using-graph-neural-networks-to-improve-admet-predictions)).
 
 ### 4. Dự án eTOX của EU: Xây dựng cơ sở dữ liệu AI dự đoán độc tính
 
-Dự án eTOX, do Liên minh châu Âu tài trợ, là một sáng kiến hợp tác giữa nhiều công ty dược lớn và tổ chức nghiên cứu nhằm xây dựng cơ sở dữ liệu độc tính tiền lâm sàng và sử dụng AI để học từ đó. Mục tiêu là tạo ra các công cụ dự đoán độc tính hệ thống (systemic toxicity) chính xác hơn để thay thế cho thử nghiệm trên động vật trong tương lai.
+Dự án eTOX, do Liên minh châu Âu tài trợ, là một sáng kiến hợp tác giữa nhiều công ty dược lớn và tổ chức nghiên cứu nhằm xây dựng cơ sở dữ liệu độc tính tiền lâm sàng và sử dụng AI để học từ đó. Mục tiêu là tạo ra các công cụ dự đoán độc tính hệ thống (systemic toxicity) chính xác hơn để thay thế cho thử nghiệm trên động vật trong tương lai (Nguồn: [IHI](https://www.ihi.europa.eu/projects-results/project-factsheets/etox)).
 
 ### 5. BioXcel Therapeutics: AI phát hiện nguy cơ tâm thần kinh
 
-BioXcel Therapeutics, một công ty công nghệ sinh học, đang sử dụng AI để phân tích dữ liệu lâm sàng và bệnh án nhằm phát hiện sớm các tác dụng phụ liên quan đến thần kinh (như trầm cảm, lo âu, mất ngủ…) trong các nhóm thuốc thần kinh và ung thư. Đây là những loại tác dụng phụ rất khó phát hiện sớm bằng phương pháp truyền thống.
+BioXcel Therapeutics, một công ty công nghệ sinh học, đang sử dụng AI để phân tích dữ liệu lâm sàng và bệnh án nhằm phát hiện sớm các tác dụng phụ liên quan đến thần kinh (như trầm cảm, lo âu, mất ngủ…) trong các nhóm thuốc thần kinh và ung thư. Đây là những loại tác dụng phụ rất khó phát hiện sớm bằng phương pháp truyền thống (Nguồn: [BioXcel Therapeutics](https://ir.bioxceltherapeutics.com/static-files/f4022567-b69d-4380-8591-f56ec81a1698)).
 
 ![AI phân tích dữ liệu dược phẩm](https://res.cloudinary.com/dxyptrt7m/image/upload/v1750678967/jusrwwft6ctzpvsh8tpi.jpg)
 
@@ -106,4 +106,4 @@ AI đang thay đổi cách chúng ta tiếp cận sức khỏe – và với ng�
 
 ---
 
-Để tìm hiểu thêm hoặc hợp tác trong lĩnh vực ứng dụng AI trong nghiên cứu dược phẩm, vui lòng liên hệ với chúng tôi qua [đây](https://kalimawiki-vn.vercel.app/contact/).
+Để tìm hiểu thêm hoặc hợp tác trong lĩnh vực ứng dụng AI trong nghiên cứu dược phẩm, vui lòng liên hệ với chúng tôi [tại đây](https://kalimawiki-vn.vercel.app/contact/).
