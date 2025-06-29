@@ -46,7 +46,7 @@ Nhờ sự hỗ trợ của các công cụ này, quá trình đánh giá dượ
 - **Chi phí thấp hơn:** Giảm nhu cầu thử nghiệm vật lý tốn kém.
 - **Độ chính xác cao:** AI phát hiện được các tương tác phức tạp và các tác dụng phụ tiềm ẩn mà phương pháp truyền thống có thể bỏ sót.
 
-- Để có thêm thôn tin về nhữn ưu điểm của việc sử dụng AI vào nghiên cứu dược, bạn có thể tham khảo thêm tại bài viết sau: [AI Trong Công Tác Nghiên Cứu Lâm Sàng: Lợi Ích Và Thách Thức](https://kalimawiki-vn.vercel.app/posts/ai-trong-cong-tac-nghien-cuu-lam-sang_-loi-ich-va-thach-thuc-2025-06-22/)
+- Để có thêm thông tin về những ưu điểm của việc sử dụng AI vào nghiên cứu dược, bạn có thể tham khảo thêm tại bài viết sau: [AI Trong Công Tác Nghiên Cứu Lâm Sàng: Lợi Ích Và Thách Thức](https://kalimawiki-vn.vercel.app/posts/ai-trong-cong-tac-nghien-cuu-lam-sang_-loi-ich-va-thach-thuc-2025-06-22/)
 
 ## 5. Một số ứng viên nổi bật trong lĩnh vực áp dụng AI vào nghiên cứu thuốc
 
