@@ -120,7 +120,7 @@ Từ góc nhìn phân tích, Insilico Medicine đang chiếm giữ một vị tr
 
 - **Nền tảng AI tích hợp từ đầu đến cuối:** Khác với nhiều đối thủ chỉ tập trung vào một số giai đoạn trong quy trình khám phá thuốc, nền tảng toàn diện của Insilico – từ xác định mục tiêu (PandaOmics), tạo và tối ưu phân tử (Chemistry42), đến phân tích thử nghiệm lâm sàng (InClinico) – cung cấp quy trình liền mạch. Sự tích hợp này giúp tăng tốc độ, giảm chi phí, và tăng xác suất thành công lâm sàng – tạo ra một lợi thế cạnh tranh bền vững.
 
-- ** Danh mục lâm sàng được xác thực:** Việc ISM001-055 (Rentosertib) tiến vào thử nghiệm lâm sàng giai đoạn II là một dấu mốc hiếm thấy và quan trọng đối với các ứng viên thuốc do AI phát hiện. Điều này vừa chứng minh năng lực công nghệ của công ty, vừa là cơ sở để kỳ vọng doanh thu trong ngắn hạn. Dữ liệu lâm sàng tích cực sớm còn giúp củng cố niềm tin từ nhà đầu tư và thu hút hợp tác chiến lược.
+- **Danh mục lâm sàng được xác thực:** Việc ISM001-055 (Rentosertib) tiến vào thử nghiệm lâm sàng giai đoạn II là một dấu mốc hiếm thấy và quan trọng đối với các ứng viên thuốc do AI phát hiện. Điều này vừa chứng minh năng lực công nghệ của công ty, vừa là cơ sở để kỳ vọng doanh thu trong ngắn hạn. Dữ liệu lâm sàng tích cực sớm còn giúp củng cố niềm tin từ nhà đầu tư và thu hút hợp tác chiến lược.
 
 - **Hợp tác chiến lược và nguồn tài chính mạnh:** Các hợp tác với nhà cung cấp dịch vụ dược lớn như WuXi AppTec, công ty dược sinh học như Juvenescence, cùng nguồn vốn từ các nhà đầu tư hàng đầu (Pavilion Capital, Baidu Ventures, Eight Roads Ventures) không chỉ mang lại vốn mà còn là chuyên môn ngành và khả năng tiếp cận thị trường. Hệ sinh thái chiến lược này giúp giảm nhiều rủi ro thường thấy trong ngành công nghệ sinh học.
 
