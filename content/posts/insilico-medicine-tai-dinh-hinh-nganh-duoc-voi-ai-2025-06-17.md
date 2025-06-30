@@ -2,7 +2,7 @@
 title: "Insilico Medicine: Tái Định Hình Ngành Dược Với AI"
 date: 2025-06-17T12:00:00-04:00
 draft: false
-tags: ["AI", "Dược Phẩm", "Khám Phá Thuốc", "Insilico Medicine"]
+tags: ["AI", "Dược Phẩm", "Khám Phá Thuốc", "Insilico Medicine", "Phân Tích"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1750177115/xwvvpyi5knpj7xhltxzt.jpg"
   alt: "Ảnh bìa của công nghệ khám phá thuốc tiên tiến bởi AI với logo Insilico Medicine"
