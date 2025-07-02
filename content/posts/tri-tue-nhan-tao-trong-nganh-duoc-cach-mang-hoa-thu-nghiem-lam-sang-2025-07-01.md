@@ -220,7 +220,7 @@ Dù AI có tiềm năng to lớn trong thử nghiệm lâm sàng, nó cũng đ�
 	
 ### 5. Thử thách về Vận hành & Hạ tầng
 
-- **AI yêu cầu dữ liệu chất lượng cao và sự tương thích*
+- **AI yêu cầu dữ liệu chất lượng cao và sự tương thích**
 
 	Dữ liệu thử nghiệm thường phân tán, không có cấu trúc hoặc không đồng nhất. AI có thể hoạt động không hiệu quả nếu không chuẩn hóa và thống nhất dữ liệu. Vì vậy các tổ chức cần đầu tư mạnh vào việc chuẩn hóa và đồng nhất dữ liệu để tận dụng tối đa khả năng của các công cụ AI.
 	
