@@ -1,5 +1,5 @@
 ---
-title: "BenevolentAI: Cách mạng hóa khám phá thuốc nhờ AI"
+title: "BenevolentAI: Cách Mạng Hóa Khám Phá Thuốc Nhờ AI"
 date: 2025-07-03T00:00:00.000+07:00
 draft: false
 tags: ["AI", "Công nghệ sinh học", "Dược phẩm", "Khám Phá Thuốc", "BenevolentAI", "Phân Tích"]
