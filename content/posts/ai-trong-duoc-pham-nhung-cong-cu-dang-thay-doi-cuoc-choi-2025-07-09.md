@@ -2,7 +2,7 @@
 title: "AI Trong Dược Phẩm: Những Công Cụ Đang Thay Đổi Cuộc Chơi"
 date: 2025-07-09T18:54:39+07:00
 draft: false
-tags: ["AI", "Nghiên cứu dược phẩm", "DeepChem", "RDKit", "ChemBERTa", ""SMILES Transformer", "GraphConv", "AutoDock Vina", "Schrödinger Suite", "IBM RXN", "GENTRL", "scape-DB"]
+tags: ["AI", "Nghiên cứu dược phẩm", "DeepChem", "RDKit", "ChemBERTa", "SMILES Transformer", "GraphConv", "AutoDock Vina", "Schrödinger Suite", "IBM RXN", "GENTRL", "scape-DB"]
 cover:
   image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1752061702/pzyap2w306huzmtzyair.jpg"
   alt: "AI thiết kế phân tử thuốc mới trong phòng thí nghiệm công nghệ cao"
