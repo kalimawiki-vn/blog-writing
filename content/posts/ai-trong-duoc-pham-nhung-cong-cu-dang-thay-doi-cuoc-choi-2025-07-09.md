@@ -318,7 +318,7 @@ Với sự hỗ trợ của trí tuệ nhân tạo, ngành dược phẩm đang 
 
 Để hiểu rõ hơn các công cụ AI trong bài viết, bên dưới là một số khái niệm như:
 
-**🔹 Phân tử & Cấu trúc hóa học*
+**🔹 Phân tử & Cấu trúc hóa học**
 
 Một phân tử là tập hợp các nguyên tử liên kết với nhau. Ví dụ: phân tử nước (H₂O) gồm 2 nguyên tử hydro và 1 nguyên tử oxy. Cấu trúc của phân tử ảnh hưởng lớn đến cách nó hoạt động trong cơ thể.
 
