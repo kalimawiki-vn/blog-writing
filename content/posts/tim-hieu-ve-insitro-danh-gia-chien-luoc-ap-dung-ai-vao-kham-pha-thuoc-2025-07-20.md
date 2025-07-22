@@ -48,8 +48,8 @@ Là người từng nhận học bổng MacArthur và được vinh danh trong d
 
 Từ năm 2018 đến nay, thị trường AI trong khám phá thuốc đã phát triển nhanh chóng về quy mô đầu tư nhưng cũng chứng kiến làn sóng nghi ngờ ngày càng lớn từ phía nhà đầu tư và các công ty dược.
 
-- **[BenevolentAI](https://kalimawiki-vn-preview.vercel.app/posts/benevolentai-cach-mang-hoa-kham-pha-thuoc-nho-ai-2025-07-03/)**, một trong những công ty công nghệ sinh học AI niêm yết hiếm hoi, đã mất khoảng 89% giá trị trong vòng hai năm – một dấu hiệu rõ ràng về sự sụt giảm niềm tin.
-- **Exscientia**, trước đây là kỳ lân AI dược, đã buộc phải sáp nhập với **[Recursion](https://kalimawiki-vn-preview.vercel.app/posts/recursion-pharmaceuticals-phan-tich-ve-su-doi-moi-trong-cong-nghe-sinh-hoc-dua-tren-nen-tang-ai-2025-06-20/)** vào tháng 11/2024 để tồn tại, tạo thành nền tảng AI dược lớn nhất ngành.
+- **[BenevolentAI](https://kalimawiki-vn.vercel.app/posts/benevolentai-cach-mang-hoa-kham-pha-thuoc-nho-ai-2025-07-03/)**, một trong những công ty công nghệ sinh học AI niêm yết hiếm hoi, đã mất khoảng 89% giá trị trong vòng hai năm – một dấu hiệu rõ ràng về sự sụt giảm niềm tin.
+- **Exscientia**, trước đây là kỳ lân AI dược, đã buộc phải sáp nhập với **[Recursion](https://kalimawiki-vn.vercel.app/posts/recursion-pharmaceuticals-phan-tich-ve-su-doi-moi-trong-cong-nghe-sinh-hoc-dua-tren-nen-tang-ai-2025-06-20/)** vào tháng 11/2024 để tồn tại, tạo thành nền tảng AI dược lớn nhất ngành.
 - Sự biến động về nguồn vốn đã và đang trở nên căng thẳng, với một số công ty được tài trợ mạnh mẽ cũng đang phải đối mặt với áp lực phải chứng minh được năng lực cũng như tiến triển cụ thể.
 
 ### Những xu hướng rõ nét
