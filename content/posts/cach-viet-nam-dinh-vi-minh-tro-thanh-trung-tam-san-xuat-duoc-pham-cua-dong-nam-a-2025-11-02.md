@@ -23,7 +23,7 @@ Bài viết này tìm hiểu sơ lược những khía cạnh mà Việt Nam đa
 ### Vị trí địa lý thuận lợi và khả năng kết nối trong khu vực
 
 Vị trí địa lý thuận lợi của Việt Nam đóng vai trò quan trọng trong chiến lược phát triển ngành dược.
-Nằm ở trung tâm Đông Nam Á, Việt Nam là cửa ngõ tự nhiên cho thương mại và phân phối trong khối ASEAN — một khu vực có nhu cầu dược phẩm đang tăng mạnh [^1, ^2].
+Nằm ở trung tâm Đông Nam Á, Việt Nam là cửa ngõ tự nhiên cho thương mại và phân phối trong khối ASEAN — một khu vực có nhu cầu dược phẩm đang tăng mạnh [^1],[^2].
 
 Việt Nam giáp Trung Quốc, quốc gia sản xuất API và dược phẩm lớn nhất thế giới, cho phép tiếp cận trực tiếp mạng lưới nhà cung cấp rộng lớn. Đồng thời, vị trí gần Ấn Độ và Singapore — hai trung tâm dược phẩm lớn khác — giúp đa dạng hóa chuỗi cung ứng và tăng khả năng tiếp cận thị trường khu vực.
 
@@ -32,7 +32,7 @@ Kết hợp với mạng lưới đường bộ và đường sắt phát triể
 
 ### Chi phí lao động cạnh tranh cùng trình độ kỹ năng ngày càng cao
 
-Một trong những yếu tố thu hút mạnh mẽ đối với các nhà sản xuất dược phẩm là chi phí nhân công hấp dẫn của lao động Việt Nam. Theo Tổ chức Lao động Quốc tế (ILO), mức lương trung bình trong lĩnh vực sản xuất tại Việt Nam thấp hơn so với những đối thủ như Thái Lan và Malaysia [^3].
+Một trong những yếu tố thu hút mạnh mẽ đối với các nhà sản xuất dược phẩm là chi phí nhân công hấp dẫn của lao động Việt Nam. Theo Tổ chức Lao động Quốc tế (ILO), mức lương trung bình trong lĩnh vực sản xuất tại Việt Nam thấp hơn so với những đối thủ như Thái Lan và Malaysia[^3].
 Đối với các công ty dược có quy trình sản xuất cần nhiều nhân công, đây là lợi thế chi phí đáng kể.
 
 Quan trọng hơn, Việt Nam đang nâng cao chất lượng nguồn nhân lực thông qua các chương trình đào tạo nghề và hợp tác với các trường đại học chuyên ngành dược, hóa học, công nghệ sinh học và khoa học đời sống.
