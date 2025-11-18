@@ -42,7 +42,7 @@ Hệ sinh thái dược phẩm Việt Nam phát triển mạnh mẽ nhờ sự h
 
 ### Doanh nghiệp dược trong nước — “Người giữ cổng thị trường”
 
-Các doanh nghiệp như Traphaco, DHG Pharma, Imexpharm sở hữu những mối quan hệ lâu năm với bệnh viện & cơ quan quản lý, mạng lưới phân phối sâu rộng, và hiểu biết đặc thù của từng vùng miền - điều mà các doanh nghiệp nước ngoài không thể sao chép trong một sớm một chiều.
+Các doanh nghiệp như Traphaco, Dược Hậu Giang, Imexpharm sở hữu những mối quan hệ lâu năm với bệnh viện & cơ quan quản lý, mạng lưới phân phối sâu rộng, và hiểu biết đặc thù của từng vùng miền - điều mà các doanh nghiệp nước ngoài không thể sao chép trong một sớm một chiều.
 
 Những doanh nghiệp trong nước hiểu rõ tỉnh nào có cơ sở hạ tầng chuỗi lạnh, đội ngũ mua sắm bệnh viện nào hoạt động nhanh chóng, và cách điều hướng các quy trình phê duyệt phức tạp của Việt Nam. Khi một doanh nghiệp đa quốc gia muốn ra mắt một loại thuốc tại Việt Nam, họ không mua năng lực sản xuất từ ​​các đối tác địa phương - mà mua 30 năm kinh nghiệm trên thị trường.
 
