@@ -156,7 +156,7 @@ Các quan hệ đối tác dược phẩm của Việt Nam được dự đoán 
 
 Việc tầng lớp trung lưu ngày càng tăng, phạm vi bảo hiểm y tế được mở rộng và các chính sách hỗ trợ của chính phủ sẽ tiếp tục thúc đẩy sự quan tâm đầu tư, biến Việt Nam trở thành trung tâm hấp dẫn cho các mối quan hệ đối tác trong ngành dược phẩm.
 
-## Conclusion
+## Kết luận
 
 **Câu chuyện về ngành dược phẩm của Việt Nam chỉ mới bắt đầu.** Từ một thị trường phụ thuộc vào nhập khẩu và sản xuất cơ bản, Việt Nam đã chuyển mình thành một hệ sinh thái năng động, nơi các quan hệ đối tác chiến lược đang xây dựng năng lực R&D, hình thành các cơ sở sản xuất đạt chuẩn quốc tế, và phát triển những liệu pháp không chỉ phục vụ Việt Nam mà còn cả khu vực Đông Nam Á.
 
