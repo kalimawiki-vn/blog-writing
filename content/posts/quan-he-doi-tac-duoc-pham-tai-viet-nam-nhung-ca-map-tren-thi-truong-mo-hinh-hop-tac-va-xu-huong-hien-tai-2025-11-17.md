@@ -10,7 +10,7 @@ cover:
 
 ## Giới thiệu
 
-**Điều gì sẽ xảy ra nếu bước đột phá tiếp theo trong lĩnh vực dược phẩm lại đến từ một nguồn không ngờ tới?** Trong khi các tập đoàn dược phẩm toàn cầu thống trị các trang tin, ngành dược Việt Nam đang âm thầm viết nên một trong những câu chuyện tăng trưởng đáng chú ý nhất châu Á — và *các quan hệ đối tác chiến lược* chính là nhân tố đứng đằng sau động lực đó. Với chi tiêu y tế tăng mạnh, hơn 50 triệu người thuộc tầng lớp trung lưu yêu cầu thuốc chất lượng tốt hơn, và hàng tỷ USD vốn đầu tư nước ngoài đổ vào, Việt Nam đang trở thành "vùng đất mới" của thế giới dược phẩm.
+**Điều gì sẽ xảy ra nếu bước đột phá tiếp theo trong lĩnh vực dược phẩm lại đến từ một điều không ngờ tới?** Trong khi các tập đoàn dược phẩm toàn cầu thống trị các trang tin, ngành dược Việt Nam đang âm thầm viết nên một trong những câu chuyện tăng trưởng đáng chú ý nhất châu Á — và *các quan hệ đối tác chiến lược* chính là nhân tố đứng đằng sau động lực đó. Với chi tiêu y tế tăng mạnh, hơn 50 triệu người thuộc tầng lớp trung lưu yêu cầu thuốc chất lượng tốt hơn, và hàng tỷ USD vốn đầu tư nước ngoài đổ vào, Việt Nam đang trở thành "vùng đất mới" của thế giới dược phẩm.
 
 Sự chuyển đổi này không diễn ra một cách ngẫu nhiên. Đằng sau nó là một mạng lưới hợp tác mạnh mẽ — giữa các nhà sản xuất nội địa và tập đoàn đa quốc gia; giữa các doanh nghiệp công nghệ và doanh nghiệp dược truyền thống; giữa cơ quan quản lý và khu vực tư nhân — tất cả đang định hình lại cách thuốc được nghiên cứu, sản xuất và phân phối tới hơn 100 triệu người dân. Những hợp tác này đang là lời giải cho những vấn đề như: giảm giá thành thuốc, nội địa hóa sản xuất, xây dựng năng lực nghiên cứu & phát triển (R&D), và phát triển hệ sinh thái đủ mạnh để phục vụ cả khu vực Đông Nam Á.
 
