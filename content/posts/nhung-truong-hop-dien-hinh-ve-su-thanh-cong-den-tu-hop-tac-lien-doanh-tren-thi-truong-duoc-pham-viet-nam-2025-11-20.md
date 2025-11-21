@@ -163,7 +163,7 @@ Năm 2013, Sanofi thể hiện một bước đi táo bạo khi đầu tư 75 tr
 
 Đây không phải là khoản đầu tư thăm dò—mà là dự án chủ lực đặt Việt Nam vào vị trí trung tâm trọng yếu của Sanofi tại Đông Nam Á.
 
-### Trở thành đối tác chiến lược với Vinapharm (2017)
+### Giai đoạn 2: Trở thành đối tác chiến lược với Vinapharm (2017)
 
 Năm 2017, Sanofi mở rộng sự gắn kết với Việt Nam bằng việc ký thỏa thuận hợp tác chiến lược với *Vinapharm*, tập đoàn dược nhà nước lớn nhất Việt Nam.
 
@@ -243,9 +243,9 @@ Cam kết công nghiệp vượt trội so với chiến lược “vào thị t
 
 Câu chuyện của Sanofi không chỉ xoay quanh ngành dược phẩm - đó là một bài học kinh nghiệm về cách xây dựng sự hiện diện công nghiệp lâu dài tại một thị trường mới nổi.
 
-## Trường Hợp #4: Khoản đầu tư 90 triệu USD của AstraZeneca—Hợp tác trực tiếp với Chính phủ Việt Nam để chống bệnh mạn tính
+## Trường Hợp #4: Khoản đầu tư 90 triệu USD của AstraZeneca — Hợp tác trực tiếp với Chính phủ Việt Nam để chống bệnh mạn tính
 
-**Một hướng đi “khác thường”:** Trong khi hầu hết các tập đoàn dược theo đuổi mô hình liên doanh hoặc mua lại, AstraZeneca lại lựa chọn con đường khác tại Việt Nam. Năm 2023, tập đoàn dược Anh–Thụy Điển ký Biên bản ghi nhớ (MoU) trực tiếp với Bộ Y tế Việt Nam, cam kết khoản đầu tư lên tới 2.000 tỷ đồng (~90 triệu USD) đến năm 2030 nhằm xây dựng năng lực sản xuất trong nước đồng thời đối phó với gánh nặng gia tăng của bệnh mạn tính.
+**Một hướng đi “khác thường”:** Trong khi hầu hết các tập đoàn dược theo đuổi mô hình liên doanh hoặc mua lại, *AstraZeneca* lại lựa chọn con đường khác tại Việt Nam. Năm 2023, tập đoàn dược Anh–Thụy Điển ký Biên bản ghi nhớ (MoU) trực tiếp với *Bộ Y tế Việt Nam*, cam kết khoản đầu tư lên tới 2.000 tỷ đồng (~90 triệu USD) đến năm 2030 nhằm xây dựng năng lực sản xuất trong nước đồng thời đối phó với gánh nặng gia tăng của bệnh mạn tính.
 
 Đây không phải thương vụ mua cổ phần, không phải mua nhà máy, cũng không phải thỏa thuận cấp phép. Đây là mô hình hợp tác công–tư, kết hợp mục tiêu kinh doanh và mục tiêu y tế công cộng—và đang thay đổi cách các tập đoàn dược đa quốc gia hợp tác với chính phủ các nước đang phát triển.
 
@@ -279,7 +279,7 @@ Việt Nam đang trải qua giai đoạn có sự thay đổi về bệnh lý h�
 * Chỉ một phần nhỏ người bệnh tăng huyết áp hoặc tiểu đường được chẩn đoán và điều trị đúng
 * Hệ thống y tế vốn thiết kế để quản lý bệnh truyền nhiễm chưa sẵn sàng cho bệnh mạn tính kéo dài
 
-Đối với Chính phủ Việt Nam, đây là một cuộc khủng hoảng y tế công và thách thức về mặt kinh tế — bệnh mạn tính ảnh hưởng năng suất lao động và chi phí chăm sóc sức khỏe. Đối với AstraZeneca — vốn có danh mục mạnh về tim mạch và hô hấp — đây là cơ hội chiến lược để gắn kết mục tiêu kinh doanh với nhu cầu cấp thiết của quốc gia.
+Đối với Chính phủ Việt Nam, đây là một cuộc khủng hoảng y tế công và thách thức về mặt kinh tế: bệnh mạn tính ảnh hưởng năng suất lao động và chi phí chăm sóc sức khỏe. Đối với AstraZeneca, vốn có danh mục mạnh về tim mạch và hô hấp, đây là cơ hội chiến lược để gắn kết mục tiêu kinh doanh với nhu cầu cấp thiết của quốc gia.
 
 ### Bộ khung hợp tác
 
@@ -403,4 +403,4 @@ Những sự hợp tác này đã nâng cấp sản xuất trong nước lên ti
 * Tầm nhìn dài hạn vượt xa lợi ích ngắn hạn.
 * Chất lượng, phát triển năng lực và tạo giá trị chung là nền tảng của thành công.
 
-Khi Việt Nam tiếp tục theo đuổi mục tiêu tự chủ dược phẩm và dẫn dắt khu vực về sản xuất, các liên doanh và hợp tác công–tư sẽ là động lực trung tâm của sự chuyển mình này. Cơ hội đang mở rộng—nhưng sẽ thuộc về những doanh nghiệp hiểu rằng Việt Nam không chỉ là một thị trường, mà là một đối tác.
+Khi Việt Nam tiếp tục theo đuổi mục tiêu tự chủ dược phẩm và dẫn dắt khu vực về sản xuất, các liên doanh và hợp tác công–tư sẽ là động lực trung tâm của sự chuyển mình này. Cơ hội là có — nhưng sẽ thuộc về những doanh nghiệp hiểu rằng Việt Nam không chỉ là một thị trường, mà là một đối tác đáng cân nhắc.
