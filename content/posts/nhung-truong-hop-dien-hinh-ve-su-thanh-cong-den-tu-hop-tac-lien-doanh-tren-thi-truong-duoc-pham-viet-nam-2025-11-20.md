@@ -4,7 +4,7 @@ date: 2025-11-20T10:00:00+07:00
 draft: false
 tags: ["Ngành công nghiệp dược phẩm", "Việt Nam", "Liên doanh", "Quan hệ đối tác", "Đầu tư"]
 cover:
-  image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1763380237/u8ht0rwzeyf8s6peqgee.jpg"
+  image: "https://res.cloudinary.com/dxyptrt7m/image/upload/v1763641474/oylv5vvzqlvadrkloabn.jpg"
   alt: Đối tác dược phẩm tại Việt Nam"
 ---
 
