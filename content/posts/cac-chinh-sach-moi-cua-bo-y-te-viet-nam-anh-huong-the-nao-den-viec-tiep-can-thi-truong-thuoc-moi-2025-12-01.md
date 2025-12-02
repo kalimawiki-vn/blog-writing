@@ -22,9 +22,9 @@ Bài viết này tìm hiểu những thay đổi pháp lý quan trọng nhất, 
 
 ## Tổng quan về Môi trường pháp lý của Bộ Y tế Việt Nam
 
-BYT không chỉ phê duyệt thuốc — mà còn kiểm soát gần như toàn bộ quá trình thuốc di chuyển từ phòng thí nghiệm đến tay bệnh nhân. Dù đó là một tập đoàn đa quốc gia đang tìm kiếm cơ hội gia nhập thị trường hay một nhà sản xuất nội địa đang mở rộng quy mô, BYT sẽ xác định thời gian phê duyệt, biên độ giá của bạn và cuối cùng là khả năng thương mại hóa của sản phẩm.
+BYT không chỉ phê duyệt thuốc — mà còn kiểm soát gần như toàn bộ quá trình thuốc di chuyển từ phòng thí nghiệm đến tay bệnh nhân. Dù đó là một tập đoàn đa quốc gia đang tìm kiếm cơ hội gia nhập thị trường hay một nhà sản xuất nội địa đang mở rộng quy mô, BYT sẽ xác định thời gian phê duyệt, biên độ giá của doanh nghiệp và cuối cùng là khả năng thương mại hóa của sản phẩm.
 
-Đây là bức tranh bạn phải đối mặt: hệ thống pháp lý của Việt Nam từ lâu được đánh giá là một trong những hệ thống thách thức nhất tại Đông Nam Á. Thời gian phê duyệt trung bình kéo dài 18–24 tháng. Yêu cầu hồ sơ vừa phức tạp vừa không rõ ràng. Các doanh nghiệp thường xuyên gặp yêu cầu bổ sung dữ liệu bất ngờ trong quá trình thẩm định — kéo dài tiến độ ra mắt sản phẩm thêm nhiều tháng và làm tăng chi phí gia nhập thị trường lên hàng triệu USD
+Đây là bức tranh mà các doanh nghiệp phải đối mặt: hệ thống pháp lý của Việt Nam từ lâu được đánh giá là một trong những hệ thống thách thức nhất tại Đông Nam Á. Thời gian phê duyệt trung bình kéo dài 18–24 tháng. Yêu cầu hồ sơ vừa phức tạp vừa không rõ ràng. Các doanh nghiệp thường xuyên gặp yêu cầu bổ sung dữ liệu bất ngờ trong quá trình thẩm định — kéo dài tiến độ ra mắt sản phẩm thêm nhiều tháng và làm tăng chi phí gia nhập thị trường lên hàng triệu USD
 
 **Vì sao lại khó như vậy?** Quy định dược phẩm của Việt Nam phát triển một cách tự phát qua nhiều thập kỷ, tạo ra một sự “chắp vá” về các yêu cầu không phải lúc nào cũng phù hợp với chuẩn quốc tế. Đối với thuốc mới, đặc biệt là sinh phẩm, thuốc hiếm và các liệu pháp mới, điều này tạo ra các thách thức lớn, vì hệ thống ban đầu được xây dựng chủ yếu cho thuốc generic và điều trị truyền thống.
 
@@ -34,7 +34,7 @@ Các thành phần chính trong khung pháp lý gồm:
 
 - *Đăng ký và phê duyệt thuốc:* Đây là bước quan trọng nhất. Mọi sản phẩm dược đều cần được BYT cấp phép trước khi đưa ra thị trường. Doanh nghiệp phải nộp hồ sơ toàn diện bao gồm dữ liệu lâm sàng, chất lượng sản xuất và hồ sơ về độ an toàn. Mức độ nghiêm ngặt tương đương với tiêu chuẩn FDA hoặc EMA, nhưng trước đây, quy trình này diễn ra chậm hơn nhiều.
 
-- *Giám sát thử nghiệm lâm sàng:* Nếu bạn muốn tiến hành thử nghiệm tại Việt Nam hoặc dùng dữ liệu tại đây cho hồ sơ đăng ký, BYT là đơn vị phê duyệt mọi đề cương nghiên cứu — từ biện pháp an toàn của bệnh nhân tới việc tuân thủ đạo đức trong thử nghiệm lâm sàng. Gần đây các quy định đã rõ ràng hơn, mặc dù vẫn được thực hiện kỹ lưỡng.
+- *Giám sát thử nghiệm lâm sàng:* Nếu một đơn vị muốn tiến hành thử nghiệm tại Việt Nam hoặc dùng dữ liệu tại đây cho hồ sơ đăng ký, BYT là đơn vị phê duyệt mọi đề cương nghiên cứu — từ biện pháp an toàn của bệnh nhân tới việc tuân thủ đạo đức trong thử nghiệm lâm sàng. Gần đây các quy định đã rõ ràng hơn, mặc dù vẫn được thực hiện kỹ lưỡng.
 
 - *Giá và chi trả:* Đây là điểm mà nhiều doanh nghiệp “vấp ngã”. BYT phối hợp với Bộ Tài chính và Bảo hiểm Xã hội Việt Nam (VSS) để xác định giá thuốc và danh mục chi trả. Khác với các thị trường trưởng thành dùng HTA hoặc mô hình chi trả dựa trên kết quả, Việt Nam phụ thuộc nhiều vào tham chiếu giá và đấu thầu cạnh tranh. Nghĩa là chiến lược giá từ Singapore hay Thái Lan khó có thể áp dụng được hoàn toàn.
 
@@ -66,7 +66,7 @@ Những cải cách của BYT không chỉ tồn tại trên lý thuyết: chún
 
 Tác động thực tiễn:
 
-* Đối với nhà tài trợ thử nghiệm: Giờ đây bạn có thể đưa Việt Nam vào các TNLS đa khu vực tại châu Á – Thái Bình Dương với sự tự tin, vì quy trình quản lý đã được xác định rõ.
+* Đối với nhà tài trợ thử nghiệm: Giờ đây các doanh nghiệp có thể đưa Việt Nam vào nhóm TNLS đa khu vực tại châu Á – Thái Bình Dương với sự tự tin, vì quy trình quản lý đã được xác định rõ.
 * Đối với chiến lược đăng ký: Dữ liệu thử nghiệm cục bộ (khi cần) có thể được tạo ra hiệu quả hơn nhờ hướng dẫn rõ ràng.
 * Đối với kế hoạch triển khai: Thời gian được dự đoán tốt hơn nghĩa là doanh nghiệp có thể cam kết mốc ra mắt tại Việt Nam với độ chắc chắn cao hơn
 
@@ -92,7 +92,7 @@ Tác động thực tiễn:
 
 **Sự thay đổi:** BYT hiện công bố hướng dẫn quản lý chi tiết trực tuyến, thiết lập cơ chế tham vấn chính thức với ngành và cam kết trao đổi thông tin nhất quán hơn trong suốt quá trình phê duyệt.
 
-**Vì sao điều này quan trọng:** Các cơ quan quản lý có thể là những hộp đen - bạn nộp hồ sơ và chờ đợi, với rất ít thông tin về tình trạng xem xét hoặc các vấn đề liên quan. Việc Việt Nam chuyển sang minh bạch và đối thoại là một thay đổi về văn hóa cũng như về thủ tục.
+**Vì sao điều này quan trọng:** Các cơ quan quản lý trước đây thường khá mơ hồ về thời gian xét hồ sơ, với rất ít thông tin về tình trạng xem xét hoặc các vấn đề liên quan. Việc Việt Nam chuyển sang minh bạch và tạo điều kiện cho việc trao đổi là một thay đổi về văn hóa cũng như về thủ tục.
 
 Tác động thực tiễn:
 
@@ -160,7 +160,7 @@ Những điểm nổi bật:
 
 ## Thách Thức và Những Điều Cần Lưu Ý
 
-Trước khi doanh nghiệp vội vàng điều chỉnh kế hoạch gia nhập thị trường Việt Nam, họ nên nhìn vào những thực tế có thể quyết định việc bạn thành công hay gặp khó khăn. Những cải thiện trong quản lý là có thật — nhưng chúng không loại bỏ hoàn toàn sự phức tạp khi bước vào một thị trường mới nổi với các đặc thù riêng. 
+Trước khi doanh nghiệp vội vàng điều chỉnh kế hoạch gia nhập thị trường Việt Nam, họ nên nhìn vào những thực tế có thể quyết định việc họ thành công hay gặp khó khăn. Những cải thiện trong quản lý là có thật — nhưng chúng không loại bỏ hoàn toàn sự phức tạp khi bước vào một thị trường mới nổi với các đặc thù riêng. 
 
 ### Yêu Cầu Tuân Thủ Phức Tạp
 
@@ -173,7 +173,7 @@ Trước khi doanh nghiệp vội vàng điều chỉnh kế hoạch gia nhập 
 * Bản dịch thiếu chính xác hoặc sử dụng thuật ngữ không chuẩn
 * Phần CMC (Hóa học, Sản xuất và Kiểm soát) không đủ chi tiết theo yêu cầu
 
-**Cái giá phải trả:** Một hồ sơ bị từ chối hoặc bị kéo dài không chỉ khiến bạn chậm tiến độ — mà còn làm giảm uy tín đối với các chuyên viên thẩm định. Hồ sơ nộp lại thường bị soi xét kỹ hơn.
+**Cái giá phải trả:** Một hồ sơ bị từ chối hoặc bị kéo dài không chỉ khiến doanh nghiệp chậm tiến độ — mà còn làm giảm uy tín đối với các chuyên viên thẩm định. Hồ sơ nộp lại thường bị soi xét kỹ hơn.
 
 Cách tránh thất bại:
 
@@ -207,12 +207,12 @@ Những lĩnh vực mà doanh nghiệp nước ngoài cần đối tác địa p
 
 ### Hoàn Trả BHYT Vẫn Là Rào Cản Thương Mại Lớn Nhất
 
-**Thách thức:** Việc được BYT phê duyệt là một chuyện. Việc lọt vào danh sách hoàn trả và thắng thầu bệnh viện mới quyết định liệu sản phẩm của bạn có thực sự tiếp cận được thị trường hay không.
+**Thách thức:** Việc được BYT phê duyệt là một chuyện. Việc lọt vào danh sách hoàn trả và thắng thầu bệnh viện mới quyết định liệu sản phẩm có thực sự tiếp cận được thị trường hay không.
 
 Vì sao việc hoàn trả khó khăn:
 
 * Ngân sách hạn chế: Hệ thống y tế Việt Nam hoạt động với nguồn ngân sách hạn chế. Việc bổ sung các liệu pháp mới đắt tiền đòi hỏi phải loại bỏ các phương pháp điều trị khác hoặc tìm thêm ngân sách
-* Tham chiếu giá: Giá của bạn sẽ được so sánh với các thị trường khác, thường chọn lọc mức giá thấp nhất để so sánh
+* Tham chiếu giá: Giá sản phẩm sẽ được so sánh với các thị trường khác, thường chọn lọc mức giá thấp nhất để so sánh
 * Cạnh tranh đấu thầu: Việc mua sắm tại bệnh viện có tính cạnh tranh cao về giá, đặc biệt là đối với các loại hình điều trị có nhiều nhà thầu tham gia
 * Khác biệt giữa các tỉnh: Có trong danh mục chi trả không đồng nghĩa bệnh viện sẽ mua liệu pháp điều trị đó. Các bệnh viện và cơ sở y tế riêng lẻ sẽ đưa ra quyết định mua sắm cuối cùng
 
